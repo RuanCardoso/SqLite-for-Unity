@@ -8,3 +8,4 @@ Platforms:
 - Ios
 - Windows
 - Uwp
+- IL2CPP(AOT)
